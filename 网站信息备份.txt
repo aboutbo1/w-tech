@@ -1,0 +1,3 @@
+url: http://www.weizhuanyekeji.com
+username: admin
+password: Z3FUSd7ur4BHpeSR
